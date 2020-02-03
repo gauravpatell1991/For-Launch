@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SmokeTestSenerio" parallel="none">
+  <test name="Spirint1">
+    <classes>
+      <class name="TestNG.TestCase1"/>
+      <class name="TestNG.TestCase2"/>
+      <class name="TestNG.TestCase3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
